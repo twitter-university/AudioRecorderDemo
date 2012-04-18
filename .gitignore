@@ -23,6 +23,8 @@
 # Generated code #
 ##################
 obj/*
+bin/*
+gen/*
 libs/*
 
 # Logs               #
